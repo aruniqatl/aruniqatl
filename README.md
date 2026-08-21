@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./denia3.gif" width="300">
+  <img src="./denia3.gif" width="500">
 </p>
 
 <h1 align="center">ARUNIQA</h1>
