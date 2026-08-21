@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="./denia.gif" width="900">
+</p>
+
+<h1 align="center">ARUNIQA</h1>
+
+<p align="center">
+  experiment • build • learn • repeat
+</p>
 # ARUNIQA
 > experimenting with code, design, and random ideas.
 I'm currently learning web development and experimenting
