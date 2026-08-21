@@ -11,6 +11,12 @@ with different things just to see what I can build.
 - Git & GitHub
 - UI Design
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aruniqa&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aruniqa&layout=compact)
+
 ## 🚀 Projects
 
 ### 📖 Manga Reader
