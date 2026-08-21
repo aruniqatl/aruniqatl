@@ -24,7 +24,7 @@ with different things just to see what I can build.
 ### 📖 Manga Reader
 A simple vertical manga/manhwa reader built with HTML & CSS.
 
-[Live Demo]([LINK_GITHUB_PAGES](https://aruniqatl.github.io/))
+[Live Demo](https://aruniqatl.github.io/))
 
 ## 🧪 Experiments
 
