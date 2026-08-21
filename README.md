@@ -1,10 +1,10 @@
 # ARUNIQA
-
+experiment • build • learn • repeat
 > experimenting with code, design, and random ideas.
 I'm currently learning web development and experimenting
 with different things just to see what I can build.
 
-> ## 🛠️ Currently Playing With
+## 🛠️ Currently Playing With
 
 - HTML
 - CSS
@@ -12,7 +12,7 @@ with different things just to see what I can build.
 - Git & GitHub
 - UI Design
 
-  ## 🚀 Projects
+## 🚀 Projects
 
 ### 📖 Manga Reader
 A simple vertical manga/manhwa reader built with HTML & CSS.
