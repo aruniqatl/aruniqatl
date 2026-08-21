@@ -1,5 +1,4 @@
 # ARUNIQA
->#### experiment • build • learn • repeat
 > experimenting with code, design, and random ideas.
 I'm currently learning web development and experimenting
 with different things just to see what I can build.
