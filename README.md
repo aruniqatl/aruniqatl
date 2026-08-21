@@ -14,7 +14,6 @@ with different things just to see what I can build.
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aruniqa&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aruniqa&layout=compact)
 
 ## 🚀 Projects
