@@ -1,27 +1,31 @@
 ARUNIQA
 │
 ├── 👋 About Me
+├── 🧪 Experiments
+├── 🛠️ Skills
+├── 🚀 Projects
+└── 🌱 Currently Learning
 # ARUNIQA
 
 > experimenting with code, design, and random ideas.
 I'm currently learning web development and experimenting
 with different things just to see what I can build.
 
-├── 🧪 Experiments
-## 🛠️ Currently Playing With
+> ## 🛠️ Currently Playing With
 
 - HTML
 - CSS
 - JavaScript
 - Git & GitHub
 - UI Design
-├── 🛠️ Skills
 
-├── 🚀 Projects
+  ## 🚀 Projects
+
 ### 📖 Manga Reader
 A simple vertical manga/manhwa reader built with HTML & CSS.
 
-[Live Demo](LINK_GITHUB_PAGES)
+[Live Demo]([LINK_GITHUB_PAGES](https://aruniqatl.github.io/))
+
 ## 🧪 Experiments
 
 > Things I built because I wondered,
@@ -32,7 +36,6 @@ A simple vertical manga/manhwa reader built with HTML & CSS.
 - Random HTML/CSS projects
 - Small JavaScript experiments
 
-└── 🌱 Currently Learning
 ## 🌱 Currently Learning
 
 Web Development  
