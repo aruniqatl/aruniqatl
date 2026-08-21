@@ -7,6 +7,7 @@
 <p align="center">
   experiment • build • learn • repeat
 </p>
+
 # ARUNIQA
 > experimenting with code, design, and random ideas.
 I'm currently learning web development and experimenting
